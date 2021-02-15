@@ -8,5 +8,6 @@
 
 ## Monitoring Tools
 
-1. Set up monitoring environment using TIG (Telegraf+InfluxDB+Grafana): [https://65007.github.io/TIG/](https://65007.github.io/TIG/)
+1. [**TIG**](https://65007.github.io/TIG/): Set up monitoring environment using TIG (Telegraf+InfluxDB+Grafana)
+2. [**apcupsdMon**](https://65007.github.io/apcupsdMon): Create InfluxDB database to hold data incoming from the server that has the UPS connected and apcupsd running and generate a Grafana dashboard to view it.
 
